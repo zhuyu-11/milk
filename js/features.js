@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://raw.githubusercontent.com/anars/blank-audio/master/1-hour-of-silence.mp3';
+    var SRC = 'https://github.com/zhuyu-11/111/blob/main/silence-7h.mp3';
     var _audio = null;
     var _unlockBound = false;
 
